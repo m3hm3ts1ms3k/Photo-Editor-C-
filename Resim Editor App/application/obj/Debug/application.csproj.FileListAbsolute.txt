@@ -1,0 +1,55 @@
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\application.exe.config
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\application.exe
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\application.pdb
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.csprojResolveAssemblyReference.cache
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.Form1.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.Properties.Resources.resources
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.csproj.GenerateResource.Cache
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.exe
+c:\users\abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.pdb
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\AForge.Imaging.dll
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\AForge.dll
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\AForge.Math.dll
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\AForge.Imaging.xml
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\AForge.xml
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\bin\Debug\AForge.Math.xml
+C:\Users\Abdullah\documents\visual studio 2013\Projects\application\application\obj\Debug\application.Form2.resources
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\application.exe.config
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\application.exe
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\application.pdb
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\AForge.dll
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\AForge.Math.dll
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\AForge.Imaging.xml
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\AForge.xml
+C:\Users\ACER NITRO\Desktop\Image Editor\application\bin\Debug\AForge.Math.xml
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.csproj.AssemblyReference.cache
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.Form1.resources
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.Form2.resources
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.Properties.Resources.resources
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.csproj.GenerateResource.cache
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.csproj.CopyComplete
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.exe
+C:\Users\ACER NITRO\Desktop\Image Editor\application\obj\Debug\application.pdb
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\bin\Debug\application.exe.config
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\bin\Debug\application.exe
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\bin\Debug\application.pdb
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.csproj.AssemblyReference.cache
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form1.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form2.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Properties.Resources.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.csproj.GenerateResource.cache
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.csproj.CopyComplete
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.exe
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.pdb
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form3.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form4.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form5.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form6.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form7.resources
+C:\Users\ACER NITRO\Desktop\Resim Editor App\application\obj\Debug\application.Form8.resources
