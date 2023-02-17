@@ -2,6 +2,8 @@
 ## I have coded an application with effects and features in C#.
 Technologies I use
 - C#
+
+
 ![Alınacak Çıktı](https://user-images.githubusercontent.com/56935899/219710888-dd3627e4-21e1-4c5c-9f5d-7c8b0dd93cf2.jpg)
 
 ![Alınacak Çıktı3](https://user-images.githubusercontent.com/56935899/219710996-7c73288c-2517-43a8-88e1-015e79249f20.jpg)
