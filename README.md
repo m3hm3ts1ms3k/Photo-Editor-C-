@@ -1,5 +1,5 @@
 # Photo Editor 
-## I have coded an application with effects and features in C#.
+## I have coded a photo editor application with effects and features in C#.
 Technologies I use
 - C#
 
